@@ -113,4 +113,4 @@ Due to a lower number of false positives, the low_risk sensitivity is now 87% wi
 ### Summary
 
 
-The models shown in this analysis show weak precisions in determining if a cresit is actually high. The Ensemble models were accurate on the sensitivity of high credit risks and the last model used had shown a recall
+The models shown in this analysis show weak precisions in determining if a cresit is actually high. The Ensemble models were accurate on the sensitivity of high credit risks and the last model used had shown a recall of 91%-- indicating almost all high credit risk. I would recommend that the bank should not use these models. 
