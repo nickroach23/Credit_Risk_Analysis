@@ -94,3 +94,11 @@ Due to the high number of false positives, the low_risk sensitivity is 62%.
 ### BalancedRandomForestClassifier model
 
 
+![Screenshot (261)](https://user-images.githubusercontent.com/64110317/139608536-1ff81905-178d-45f9-850c-929487925243.png)
+
+
+The balanced accuracy score improved to about 79%.
+
+The high_risk precision is still low at 4% only with 70% sensitivity which makes a F1 of only 7%.
+
+Due to a lower number of false positives, the low_risk sensitivity is now 87% with 100% presicion.
