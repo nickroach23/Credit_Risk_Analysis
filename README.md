@@ -102,3 +102,15 @@ The balanced accuracy score improved to about 79%.
 The high_risk precision is still low at 4% only with 70% sensitivity which makes a F1 of only 7%.
 
 Due to a lower number of false positives, the low_risk sensitivity is now 87% with 100% presicion.
+
+
+### EasyEnsembleClassifier model 
+
+
+![Screenshot (263)](https://user-images.githubusercontent.com/64110317/139609037-9739bb73-3f27-43cb-91b0-c81c5cddde22.png)
+
+
+### Summary
+
+
+The models shown in this analysis show weak precisions in determining if a cresit is actually high. The Ensemble models were accurate on the sensitivity of high credit risks and the last model used had shown a recall
