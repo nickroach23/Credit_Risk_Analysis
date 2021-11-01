@@ -29,4 +29,18 @@ Deliverable 4: A Written Report on the Credit Risk Analysis
 ![Screenshot (249)](https://user-images.githubusercontent.com/64110317/139606870-aa5e24e2-393c-4f46-a5e7-c76c9ab7dee7.png)
 
 
+![Screenshot (251)](https://user-images.githubusercontent.com/64110317/139607002-7f717c1f-8164-4b8a-a451-afe5bd53b7a4.png)
+
+
+
+
+
+
+The balanced accuracy score is 63%
+
+The high_risk precision is about 1% only with 62% sensitivity which makes a F1 of 2% only.
+
+Due to the high number of the low_risk population, its precision is almost 100% with a sensitivity of 68%
+
+
 
