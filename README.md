@@ -65,3 +65,18 @@ Due to the high number of the low_risk population, its precision is almost 100% 
 
 
 
+![Screenshot (257)](https://user-images.githubusercontent.com/64110317/139608021-6a191897-846b-4462-88e6-e3b161748b27.png)
+
+
+Here the balanced accuracy score is down to about 53%.
+
+The high_risk precision is still 1% only with 61% sensitivity which makes a F1 of 1%.
+
+Due to the high number of false positives, the low_risk sensitivity is only 45%.
+
+
+### SMOTEENN model
+
+
+
+
