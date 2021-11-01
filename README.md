@@ -26,5 +26,7 @@ Deliverable 4: A Written Report on the Credit Risk Analysis
 
 ### Random Oversampling 
 
+![Screenshot (249)](https://user-images.githubusercontent.com/64110317/139606870-aa5e24e2-393c-4f46-a5e7-c76c9ab7dee7.png)
+
 
 
