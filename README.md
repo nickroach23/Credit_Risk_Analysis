@@ -78,5 +78,19 @@ Due to the high number of false positives, the low_risk sensitivity is only 45%.
 ### SMOTEENN model
 
 
+![Screenshot (259)](https://user-images.githubusercontent.com/64110317/139608180-b554bdba-228f-40a7-8c8d-5eef60fbd0f7.png)
+
+
+
+
+The balanced accuracy score is about 63%.
+
+The high_risk precision is still 1% only with 64% sensitivity which makes a F1 of only 2%.
+
+Due to the high number of false positives, the low_risk sensitivity is 62%.
+
+
+
+### BalancedRandomForestClassifier model
 
 
