@@ -29,11 +29,11 @@ Deliverable 4: A Written Report on the Credit Risk Analysis
 ![Screenshot (249)](https://user-images.githubusercontent.com/64110317/139606870-aa5e24e2-393c-4f46-a5e7-c76c9ab7dee7.png)
 
 
-![Screenshot (251)](https://user-images.githubusercontent.com/64110317/139607002-7f717c1f-8164-4b8a-a451-afe5bd53b7a4.png)
+![Screenshot (251)](https://user-images.githubusercontent.com/64110317/139607550-c5fc8a02-63a3-4edb-a208-194a35f0d186.png)
 
 
 
-
+The results are pretty similar to the previous model.
 
 
 The balanced accuracy score is 63%
@@ -41,6 +41,27 @@ The balanced accuracy score is 63%
 The high_risk precision is about 1% only with 62% sensitivity which makes a F1 of 2% only.
 
 Due to the high number of the low_risk population, its precision is almost 100% with a sensitivity of 68%
+
+
+### SMOTE Oversampling 
+
+![Screenshot (253)](https://user-images.githubusercontent.com/64110317/139607464-97ffdca9-67c6-4544-a7fa-648c75e3266d.png)
+
+
+![Screenshot (255)](https://user-images.githubusercontent.com/64110317/139607605-8c249b3a-da36-43d4-8d61-283f4e4d8cb7.png)
+
+
+
+The results are pretty similar to the previous model.
+
+The balanced accuracy score is 63%.
+
+The high_risk precision is about 1% only with 64% sensitivity which makes a F1 of 2% only.
+
+Due to the high number of the low_risk population, its precision is almost 100% with a sensitivity of 64%.
+
+
+### ClusterCentroids model 
 
 
 
